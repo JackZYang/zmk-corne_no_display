@@ -78,7 +78,7 @@ layers:
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - .
-  - {t: \, s: '|'}
+  - '|'
   - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
@@ -121,7 +121,7 @@ layers:
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
-  - '|'
+  - {t: \, s: '|'}
   - $$mdi:volume-low$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
